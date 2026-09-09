@@ -199,7 +199,7 @@
     "eslint-config-next": "16.2.10",
     "jsdom": "^29.1.1",
     "lighthouse": "^13.0.3",
-    "npm-check-updates": "^19.3.2",
+    "npm-check-updates": "^23.1.0",
     "postcss": "8.5.6",
     "postcss-load-config": "^6.0.1",
     "prettier": "3.8.1",
